@@ -1,0 +1,24 @@
+.counterDisplay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  
+  .incr,.decr{
+    width: 10vw;
+    height: 8vh;
+  }
+  
+  .incr{
+    margin-left: 3vw;
+  }
+  
+  .decr{
+    margin-right: 3vw;
+  }
+  
+  .count{
+    display: inline-block;
+  }
+  
