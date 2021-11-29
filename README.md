@@ -18,4 +18,5 @@ You will also see any lint errors in the console.
 
 1) Counter App - http://localhost:3000
 2) Display My Name - http://localhost:3000/display-name
-3) updating.....
+3) Sign In = http://localhost:3000/signin
+4) updating....
